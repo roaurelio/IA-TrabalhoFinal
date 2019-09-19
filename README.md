@@ -4,7 +4,9 @@ O trabalho a ser apresentado irá utilizar um classificador de imagens e, a part
 
 O classificador utilizado será o deep learning, que é um algoritmo de aprendizado de máquina supervisionado cuja estrutura é inspirada no cérebro humano. Sua arquitetura possui redes neurais artificiais para aprender padrões através de tarefas repetidas durante seu treinamento. O classificador será implementado na liguagem python, e foram utilizadas as bibliotecas TensorFlow e Keras. O código do algoritmo encontra-se no repositório do projeto.
 
-As imagens de fundo de olho utilizadas foram encontradas nas bases de dados online disponibilizada pelo DRIVE (Digital Retinal Images for Vessel Extraction) e pelo DRIONS-DB (Digital Retinal Images for Optic Nerve Segmentation Database), que também estarão no repositório do projeto. A base de dados que contém imagens que não são de fundo de olho contém imagens que possibilitam o diagnóstico de um paciente com cancêr e também é uma base online pública.
+Dois algoritmos serão utilizados, o primeiro será um deep learning sem camadas convolucionais e outro será utilizando convolução. O modelo sem convolução tem cinco camadas e o modelo com convolução tem quatro camadas de convolução, seguidas de uma de maxpooling e um bloco totalmente conectado (rede neural normal).
+
+As imagens de fundo de olho utilizadas foram encontradas nas bases de dados online disponibilizada pelo DRIVE (Digital Retinal Images for Vessel Extraction), DRIONS-DB (Digital Retinal Images for Optic Nerve Segmentation Database), Magrabia e BinRushed que estão no repositório do projeto. A base de dados que contém imagens que não são de fundo de olho contém imagens que possibilitam o diagnóstico de um paciente com cancêr e também é uma base online pública.
 
 Bibliotecas necessárias:
   * TensorFlow;  
