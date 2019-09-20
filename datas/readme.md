@@ -5,18 +5,19 @@ Este diretório possui as imagens que foram utilizadas para treinamento e teste 
 Cada diretório possui mais dois subdiretórios, fundusImage e other, que são as imagens de fundo de olho e imagens de um olho humano, fechado e aberto que irão representar as outras imagens que não são interessantes para um classificador de glaucoma.
 
 
-*data*
-  |-- train
-        |-- fundusImage
-        |-- other
-  |--test
-       |-- fundusImage
-       |-- other
+- data
+    - train
+        - fundusImage
+        - other
+    - test
+        - fundusImage
+        - other
 
 Exemplo de imagem de fundo de olho:
-
+![fundo de olho](train/fundusImage/image_006.jpg)
 
 Exemplo de imagem da pasta other:
+
 
 
 
