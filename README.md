@@ -8,7 +8,7 @@ Dois algoritmos serão utilizados, o primeiro será um deep learning sem camadas
 
 As imagens de fundo de olho utilizadas foram encontradas em bases de dados públicas disponibilizadas na internet. A base de dados que contém imagens que não são de fundo de olho contém imagens da parte externa do olho humano em várias situações (aberto, fechado, etc) e também é uma base online pública.
 
-Bibliotecas necessárias:
+Bibliotecas necessárias para rodar os classificadores:
   * TensorFlow;  
   * Numpy;
   * Keras;
