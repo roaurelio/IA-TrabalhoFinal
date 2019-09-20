@@ -14,6 +14,7 @@ Cada diretório possui mais dois subdiretórios, fundusImage e other, que são a
         - other
 
 Exemplo de imagem de fundo de olho:
+
 ![fundo de olho](train/fundusImage/image_006.jpg)
 
 Exemplo de imagem da pasta other:
