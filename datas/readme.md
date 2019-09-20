@@ -13,6 +13,9 @@ Cada diretório possui mais dois subdiretórios, fundusImage e other, que são a
         - fundusImage
         - other
 
+O diretório train possui no total 700 imagens, onde cada diretório possui 350 imagens.
+
+O diretório test possui no total 300 imagens, onde cada diretório possui 150 imagens.
 
 **Imagens de fundo de olho**
 
@@ -35,6 +38,4 @@ Exemplo de imagem da pasta other:
 
 ![Olho humano](ExampleOtherImages.png)
 
-O diretório train possui no total 700 imagens, onde cada diretório possui 350 imagens.
 
-O diretório test possui no total 300 imagens, onde cada diretório possui 150 imagens.
