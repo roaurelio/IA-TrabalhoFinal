@@ -13,14 +13,27 @@ Cada diretório possui mais dois subdiretórios, fundusImage e other, que são a
         - fundusImage
         - other
 
+
+**Imagens de fundo de olho**
+
+As imagens foram obtidas de base de dados disponibilizadas online:
+- DRIONS-DB (Digital Retinal Images for Optic Nerve Segmentation Database);
+- DRIVE (Digital Retinal Images for Vessel Extraction);
+- BinRushed;
+- Magrabia.
+
 Exemplo de imagem de fundo de olho:
 
 ![fundo de olho](train/fundusImage/image_006.jpg)
 
+
+**Imagens de olho humano**
+
+As imagens de olho humano utilizadas, onde contem olhos abertos e fechados, foram encontradas no site do [Media Research Lab](http://mrl.cs.vsb.cz//index.html).
+
 Exemplo de imagem da pasta other:
 
-
-
+![Olho humano](ExampleOtherImages.png)
 
 O diretório train possui no total 700 imagens, onde cada diretório possui 350 imagens.
 
