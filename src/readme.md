@@ -8,8 +8,8 @@ Para a execução dos algoritmos é preciso instalar as seguintes bibliotecas:
 * Opencv.
 
 Duas variáveis deverão ser atualizadas para a correta execução dos algoritmos:
-* data_dir
-* data_dir_test 
+* data_dir = r"..\datas\train"
+* data_dir_test = r"..\datas\test"
 
 As imagens representam o caminho o qual o programa irá buscar as imagens de treinamento e as imagens de teste.
 O programa espera a seguinte estrutura de diretórios:
