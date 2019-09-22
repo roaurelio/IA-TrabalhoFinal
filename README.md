@@ -12,5 +12,6 @@ Bibliotecas necessárias para rodar os classificadores:
   * TensorFlow;  
   * Numpy;
   * Keras;
-  * Matplotlib.
+  * Matplotlib;
+  * Opencv.
 
