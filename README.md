@@ -8,3 +8,4 @@ Dois algoritmos serão utilizados, o primeiro será um deep learning sem camadas
 
 As imagens de fundo de olho utilizadas foram encontradas em bases de dados públicas disponibilizadas na internet. A base de dados que contém imagens que não são de fundo de olho contém imagens da parte externa do olho humano em várias situações (aberto, fechado, etc) e também é uma base online pública.
 
+Foi elaborado um relatório descrevendo a metodologia utilizada e os resultados dos classificadores para os testes realizados. O relatório foi feito no overleaf, e o link é: <https://www.overleaf.com/project/5d61cfa4e3576e67dc83b02b>
