@@ -3,8 +3,6 @@
 
 # In[1]:
 
-
-import pickle
 import numpy as np
 import os
 import cv2
@@ -17,9 +15,10 @@ from tensorflow.keras.layers import Dense, Dropout, Activation, Flatten
 
 # In[4]:
 
-
-data_dir = r"C:\Users\Rosana\Documents\DataSets\datas\train"
-data_dir_test = r"C:\Users\Rosana\Documents\DataSets\datas\test"
+path_treinamento = r"..\datas\train"
+path_teste = r"..\datas\test"
+data_dir = path_treinamento
+data_dir_test = path_teste 
 categories = ["fundusImage","other"]
 img_size = 128
 

@@ -18,9 +18,8 @@ from tensorflow.keras.layers import Dense, Dropout, Activation, Flatten, Conv2D,
 
 # In[2]:
 
-
-data_dir = r"C:\Users\Rosana\Documents\DataSets\datas\train"
-data_dir_test = r"C:\Users\Rosana\Documents\DataSets\datas\test"
+data_dir = r"..\datas\train"
+data_dir_test = r"..\datas\test" 
 categories = ["fundusImage","other"]
 img_size = 128
 
